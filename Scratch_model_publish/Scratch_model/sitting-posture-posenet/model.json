@@ -1,0 +1,13 @@
+{
+  "id": "scratch-ml-001",
+  "slug": "sitting-posture-posenet",
+  "name_ja": "座位姿勢AIチェック",
+  "name_en": "Sitting Posture AI Check",
+  "version": "1.0.0",
+  "technology": ["HTML", "JavaScript", "TensorFlow.js", "PoseNet"],
+  "inputs": ["座位の正面写真", "座位の横向き写真"],
+  "outputs": ["骨格点", "肩の左右差", "頭の位置", "上半身の傾き", "簡易点数"],
+  "privacy": "画像はブラウザ内で処理し、教材サーバーへ送信しない",
+  "medical_disclaimer": true,
+  "license_note": "教育・研究目的"
+}

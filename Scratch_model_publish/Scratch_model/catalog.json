@@ -1,0 +1,16 @@
+{
+  "collection": "Scratch AI教材モデル集",
+  "version": 1,
+  "models": [
+    {
+      "id": "scratch-ml-001",
+      "slug": "sitting-posture-posenet",
+      "name_ja": "座位姿勢AIチェック",
+      "name_en": "Sitting Posture AI Check",
+      "category": ["Scratch", "機械学習", "PoseNet", "姿勢推定"],
+      "level": "初級〜中級",
+      "entry": "sitting-posture-posenet/index.html",
+      "status": "published"
+    }
+  ]
+}
